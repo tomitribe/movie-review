@@ -1,0 +1,52 @@
+/*
+ * Copyright (c) 2015 JLP Software Limited, All Rights Reserved.
+ */
+
+body {
+    padding-top: 70px;
+}
+
+h1 {
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 36px;
+    color: #646472;
+}
+h2 {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    color: #646472;
+}
+h3 {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 24px;
+    color: #00516a;
+}
+h4 {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 18px;
+    color: #00516a;
+}
+h5 {
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 14px;
+    color: #424251;
+}
+h6 {
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 12px;
+    color: #424251;
+}
+
+button .btn-primary {
+    color: #1f9797;
+}
+
+button:hover .btn-primary {
+    color: #177e80;
+}
